@@ -5,3 +5,4 @@ googleat.har
 dependency-reduced-pom.xml
 *.iml
 filename.txt
+/bin/
